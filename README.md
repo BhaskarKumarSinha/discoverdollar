@@ -53,7 +53,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+### Making a Progressiv![sc1](https://github.com/BhaskarKumarSinha/discoverdollar/assets/90524769/ed18d68a-b041-41d2-987e-35a8cd6bcedb)
+e Web App
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
@@ -65,6 +66,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+### `npm run build![sc2](https://github.com/BhaskarKumarSinha/discoverdollar/assets/90524769/7dafce8c-b7d9-4c99-ba42-6b674682d0d6)![sc1](https://github.com/BhaskarKumarSinha/discoverdollar/assets/90524769/236d770b-aabf-4f5a-bbf1-c08c58f37842)
+![sc3](https://github.com/BhaskarKumarSinha/discoverdollar/assets/90524769/0e2fed23-86a9-441e-8b53-e5c2ee3a621a)
+
+` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
