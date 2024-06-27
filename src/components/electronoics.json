@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Apple MacBook Pro",
+    "description": "Powerful laptop from Apple with Intel Core i7, 16GB RAM, and 512GB SSD storage.",
+    "imageUrl": "/assets/mackbook.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Dell XPS 15",
+    "description": "High-performance laptop with Intel Core i9, 32GB RAM, and 1TB SSD storage.",
+    "imageUrl": "/assets/dell.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Samsung Galaxy S21 Ultra",
+    "description": "Flagship mobile phone with Exynos 2100 / Snapdragon 888 processor, 12GB RAM, and up to 512GB storage.",
+    "imageUrl": "/assets/samsunggalaxy.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Apple iPhone 12 Pro Max",
+    "description": "Premium iPhone with Apple A14 Bionic processor, 6GB RAM, and up to 512GB storage.",
+    "imageUrl": "/assets/iphone.jpg"
+  },
+  {
+    "id": 5,
+    "title": "HP Spectre x360",
+    "description": "Convertible laptop with Intel Core i7, 16GB RAM, and 512GB SSD storage.",
+    "imageUrl": "/assets/hp.jpg"
+  },
+  {
+    "id": 6,
+    "title": "HP Spectre x360",
+    "description": "Convertible laptop with Intel Core i7, 16GB RAM, and 512GB SSD storage.",
+    "imageUrl": "/assets/hp.jpg"
+  },
+  {
+    "id": 7,
+    "title": "HP Spectre x360",
+    "description": "Convertible laptop with Intel Core i7, 16GB RAM, and 512GB SSD storage.",
+    "imageUrl": "/assets/hp.jpg"
+  },
+  {
+    "id": 8,
+    "title": "HP Spectre x360",
+    "description": "Convertible laptop with Intel Core i7, 16GB RAM, and 512GB SSD storage.",
+    "imageUrl": "/assets/mackbook.jpg"
+  }
+]

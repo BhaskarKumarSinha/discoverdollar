@@ -1,0 +1,34 @@
+{
+  "components": [
+    {
+      "id": 1,
+      "name": "Refrigerator",
+      "description": "Energy-efficient refrigerator with ample storage space.",
+      "imageUrl": "../assets/refrigerator.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Washing Machine",
+      "description": "Front-load washing machine with multiple wash programs.",
+      "imageUrl": "../assets/washing.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Microwave Oven",
+      "description": "Microwave oven with convection and grill features.",
+      "imageUrl": "../assets/refrigerator.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Vacuum Cleaner",
+      "description": "Robust vacuum cleaner for efficient cleaning.",
+      "imageUrl": "../assets/vaccum.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Coffee Maker",
+      "description": "Automatic coffee maker with programmable settings.",
+      "imageUrl": "../assets/cofee.jpg"
+    }
+  ]
+}

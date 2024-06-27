@@ -1,0 +1,346 @@
+{
+  "categories": [
+    {
+      "name": "Electronics",
+      "industry": "Consumer Electronics",
+      "subcategories": [
+        {
+          "name": "Mobiles",
+          "industry": "Smartphones & Feature Phones",
+          "subcategories": [
+            {
+              "name": "Smartphones",
+              "industry": "Smartphones"
+            },
+            {
+              "name": "Feature Phones",
+              "industry": "Feature Phones"
+            },
+            {
+              "name": "Accessories",
+              "industry": "Mobile Accessories",
+              "subcategories": [
+                {
+                  "name": "Chargers",
+                  "industry": "Chargers"
+                },
+                {
+                  "name": "Cases & Covers",
+                  "industry": "Cases & Covers"
+                },
+                {
+                  "name": "Headphones",
+                  "industry": "Headphones"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Laptops",
+          "industry": "Laptops",
+          "subcategories": [
+            {
+              "name": "Gaming Laptops",
+              "industry": "Gaming Laptops"
+            },
+            {
+              "name": "Business Laptops",
+              "industry": "Business Laptops"
+            },
+            {
+              "name": "2-in-1 Laptops",
+              "industry": "2-in-1 Laptops"
+            }
+          ]
+        },
+        {
+          "name": "Televisions",
+          "industry": "Televisions"
+        },
+        {
+          "name": "Cameras",
+          "industry": "Cameras"
+        }
+      ]
+    },
+    {
+      "name": "Fashion",
+      "industry": "Apparel & Fashion",
+      "subcategories": [
+        {
+          "name": "Men",
+          "industry": "Men's Clothing",
+          "subcategories": [
+            {
+              "name": "Ethnic Wear",
+              "industry": "Ethnic Wear",
+              "subcategories": [
+                {
+                  "name": "Kurtas",
+                  "industry": "Kurtas"
+                },
+                {
+                  "name": "Sherwanis",
+                  "industry": "Sherwanis"
+                },
+                {
+                  "name": "Nehru Jackets",
+                  "industry": "Nehru Jackets"
+                }
+              ]
+            },
+            {
+              "name": "Casual Wear",
+              "industry": "Casual Wear",
+              "subcategories": [
+                {
+                  "name": "T-Shirts",
+                  "industry": "T-Shirts"
+                },
+                {
+                  "name": "Jeans",
+                  "industry": "Jeans"
+                },
+                {
+                  "name": "Shorts",
+                  "industry": "Shorts"
+                }
+              ]
+            },
+            {
+              "name": "Formal Wear",
+              "industry": "Formal Wear",
+              "subcategories": [
+                {
+                  "name": "Shirts",
+                  "industry": "Shirts"
+                },
+                {
+                  "name": "Trousers",
+                  "industry": "Trousers"
+                },
+                {
+                  "name": "Suits",
+                  "industry": "Suits"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Women",
+          "industry": "Women's Clothing",
+          "subcategories": [
+            {
+              "name": "Ethnic Wear",
+              "industry": "Ethnic Wear",
+              "subcategories": [
+                {
+                  "name": "Sarees",
+                  "industry": "Sarees"
+                },
+                {
+                  "name": "Kurtis",
+                  "industry": "Kurtis"
+                },
+                {
+                  "name": "Lehenga Cholis",
+                  "industry": "Lehenga Cholis"
+                }
+              ]
+            },
+            {
+              "name": "Western Wear",
+              "industry": "Western Wear",
+              "subcategories": [
+                {
+                  "name": "Dresses",
+                  "industry": "Dresses"
+                },
+                {
+                  "name": "Tops",
+                  "industry": "Tops"
+                },
+                {
+                  "name": "Skirts",
+                  "industry": "Skirts"
+                }
+              ]
+            },
+            {
+              "name": "Footwear",
+              "industry": "Footwear"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Home & Kitchen",
+      "industry": "Home & Kitchen",
+      "subcategories": [
+        {
+          "name": "Furniture",
+          "industry": "Furniture",
+          "subcategories": [
+            {
+              "name": "Sofas",
+              "industry": "Sofas"
+            },
+            {
+              "name": "Beds",
+              "industry": "Beds"
+            },
+            {
+              "name": "Dining Tables",
+              "industry": "Dining Tables"
+            }
+          ]
+        },
+        {
+          "name": "Home Decor",
+          "industry": "Home Decor",
+          "subcategories": [
+            {
+              "name": "Wall Art",
+              "industry": "Wall Art"
+            },
+            {
+              "name": "Lighting",
+              "industry": "Lighting"
+            },
+            {
+              "name": "Curtains",
+              "industry": "Curtains"
+            }
+          ]
+        },
+        {
+          "name": "Kitchen & Dining",
+          "industry": "Kitchen & Dining",
+          "subcategories": [
+            {
+              "name": "Cookware",
+              "industry": "Cookware"
+            },
+            {
+              "name": "Dinnerware",
+              "industry": "Dinnerware"
+            },
+            {
+              "name": "Storage",
+              "industry": "Storage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beauty & Personal Care",
+      "industry": "Beauty & Personal Care",
+      "subcategories": [
+        {
+          "name": "Makeup",
+          "industry": "Makeup"
+        },
+        {
+          "name": "Skincare",
+          "industry": "Skincare"
+        },
+        {
+          "name": "Haircare",
+          "industry": "Haircare"
+        },
+        {
+          "name": "Fragrances",
+          "industry": "Fragrances"
+        }
+      ]
+    },
+    {
+      "name": "Sports & Fitness",
+      "industry": "Sports & Fitness",
+      "subcategories": [
+        {
+          "name": "Fitness Equipment",
+          "industry": "Fitness Equipment",
+          "subcategories": [
+            {
+              "name": "Treadmills",
+              "industry": "Treadmills"
+            },
+            {
+              "name": "Dumbbells",
+              "industry": "Dumbbells"
+            },
+            {
+              "name": "Yoga Mats",
+              "industry": "Yoga Mats"
+            }
+          ]
+        },
+        {
+          "name": "Outdoor Sports",
+          "industry": "Outdoor Sports",
+          "subcategories": [
+            {
+              "name": "Cricket",
+              "industry": "Cricket"
+            },
+            {
+              "name": "Football",
+              "industry": "Football"
+            },
+            {
+              "name": "Cycling",
+              "industry": "Cycling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Books & Music",
+      "industry": "Books & Music",
+      "subcategories": [
+        {
+          "name": "Books",
+          "industry": "Books",
+          "subcategories": [
+            {
+              "name": "Fiction",
+              "industry": "Fiction"
+            },
+            {
+              "name": "Non-Fiction",
+              "industry": "Non-Fiction"
+            },
+            {
+              "name": "Educational",
+              "industry": "Educational"
+            }
+          ]
+        },
+        {
+          "name": "Music",
+          "industry": "Music",
+          "subcategories": [
+            {
+              "name": "Instruments",
+              "industry": "Instruments"
+            },
+            {
+              "name": "CDs & Vinyl",
+              "industry": "CDs & Vinyl"
+            },
+            {
+              "name": "Accessories",
+              "industry": "Music Accessories"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
